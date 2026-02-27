@@ -1,5 +1,5 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Sistema de Orçamentos para Arquitetura",
+  "description": "Um sistema para criar e gerenciar orçamentos de projetos de arquitetura.",
   "requestFramePermissions": []
 }
